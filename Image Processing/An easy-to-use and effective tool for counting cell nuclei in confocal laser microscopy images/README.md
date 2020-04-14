@@ -1,0 +1,2 @@
+# Image Processing: counting cell nuclei in confocal laser microscopy images
+Was provided with a set of confocal laser microscope images of plant roots, obtained as described above. Designed and implemented a Matlab program that inputs one of these images and outputed a binary image marking regions corresponding to nuclei.
