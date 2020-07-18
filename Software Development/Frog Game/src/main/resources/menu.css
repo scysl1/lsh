@@ -1,0 +1,41 @@
+.anchor {
+    -fx-background-image:url('file:src/main/java/p4_group_8_repo/pic/arcade.png');
+}
+.info {
+    -fx-background-image:url('file:src/main/java/p4_group_8_repo/pic/info.png');
+}
+.score {
+    -fx-background-image:url('file:src/main/java/p4_group_8_repo/pic/scorepage.png');
+}
+
+.button{
+    -fx-background-color: linear-gradient(to bottom,#7dc2fe,#004883);
+    	-fx-font-size: 20px;
+    	-fx-font-family: "Courier New";
+    	-fx-text-alignment: center;
+    	-fx-text-fill: #fff;
+    	-fx-border-radius: 10px;
+    	-fx-background-radius: 20px;
+
+}
+
+.label{
+    -fx-font-size: 20px;
+    -fx-font-family: "Courier New";
+    -fx-text-alignment: center;
+
+}
+
+.button:hover{
+
+   -fx-background-color: #1a83e1;
+   -fx-text-fill: white;
+   -fx-color : #1a83e1;
+}
+
+.text1{
+    -fx-font-size: 40px;
+    -fx-font-family: "Courier Bold";
+    -fx-text-fill:white;
+    -fx-text-alignment: center;
+}

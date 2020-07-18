@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CHeSC FixedPS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/PS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/VisualiserLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
